@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Olga\source\repos\4.3\4.3\Source.cpp(19): error C4700: uninitialized local variable 'c' used
+C:\Users\Olga\source\repos\4.3\4.3\Source.cpp(20): error C4700: uninitialized local variable 'a' used
+C:\Users\Olga\source\repos\4.3\4.3\Source.cpp(20): error C4700: uninitialized local variable 'b' used
